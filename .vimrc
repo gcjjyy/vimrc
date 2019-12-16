@@ -10,6 +10,8 @@ set listchars=tab:!·,trail:·
 set list
 set laststatus=2
 
+syntax on
+
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
